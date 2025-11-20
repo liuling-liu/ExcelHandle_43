@@ -79,7 +79,7 @@ python dataEXCEL.py  # 主程序入口为show_MainWindow()
 
 ## 版本信息
 
-- 开发环境：Python 3.8
+- 开发环境：Python 3.12.0
 - 测试平台：Windows 11
 - 更新日期：2025年11月
 
