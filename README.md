@@ -7,7 +7,7 @@
 ## 核心功能
 
 1. 导入EXCEL
-   - 选择文件夹自动加载所有Excel文件至左侧列表
+   - 选择文件夹自动加载所有Excel文件至左侧列表（项目提供测试文件在XS1中）
    - 支持.xlsx格式文件遍历与展示
 2. 提取列数据
    - 提取关键字段：买家会员名、收货人姓名、联系手机、宝贝标题
@@ -51,7 +51,7 @@ python -m pip install openpyxl
 ```python
 python
 
-python your_script_name.py  # 主程序入口为show_MainWindow()
+python dataEXCEL.py  # 主程序入口为show_MainWindow()
 ```
 
 ## 操作指南
@@ -86,4 +86,5 @@ python your_script_name.py  # 主程序入口为show_MainWindow()
 ## 贡献者
 
 项目开发者：刘玲
+
 联系方式：405800554@qq.com
